@@ -32,6 +32,15 @@ header {
 	padding: 8px;
 }
 
+.row:before, .row:after {
+	content: '';
+	display: table;
+}
+
+.row:after {
+	clear: both;
+}
+
 /*Tablet View*/
 
 @media (min-width: 768px){
