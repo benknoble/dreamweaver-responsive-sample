@@ -47,6 +47,13 @@ h1 {
 	margin-bottom: 60px;
 }
 
+h2 {
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: 200;
+	margin-bottom: 23px;
+}
+
 h3 {
 	font-size: 16px;
 	text-transform: uppercase;
@@ -57,6 +64,12 @@ h3 {
 h4 {
 	font-size: 16px;
 	font-weight: 200;
+	margin-bottom: 35px;
+}
+
+p {
+	font-size: 16px;
+	font-weight: 400px;
 	margin-bottom: 35px;
 }
 
@@ -75,6 +88,13 @@ h4 {
 
 .row:after {
 	clear: both;
+}
+
+.info-box-tan {
+	background-color: #b9a88e;
+	color: #FFFFFF;
+	padding: 30px 20px 60px;
+	text-align: center;
 }
 
 /*Tablet View*/
