@@ -164,6 +164,9 @@ footer-text {
 	.style-nav {
 		float: right;
 	}
-	
+
+	.col-lg {
+		width: 25%;
+	}
 }
 
