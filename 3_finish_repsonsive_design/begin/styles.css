@@ -130,6 +130,10 @@ footer-text {
 		display: inline-block;
 	}
 	
+	.style-nav ul {
+		text-align: center;
+	}
+	
 }
 
 /*Desktop View*/
