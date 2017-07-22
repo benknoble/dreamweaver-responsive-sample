@@ -134,7 +134,11 @@ footer-text {
 /*Tablet View*/
 
 @media (min-width: 768px){
-	
+
+	body {
+		max-width: 778px;
+	}
+
 	.style-nav ul li {
 		display: inline-block;
 	}
