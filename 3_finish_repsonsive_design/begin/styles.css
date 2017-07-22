@@ -122,6 +122,10 @@ footer-text {
 	clear: both;
 }
 
+.col {
+	width: 100%;
+}
+
 /*Tablet View*/
 
 @media (min-width: 768px){
@@ -139,6 +143,10 @@ footer-text {
 		margin-bottom: 90px;
 	}
 	
+	.col-md-one-half {
+		width: 50%;
+	}
+
 }
 
 /*Desktop View*/
