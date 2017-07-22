@@ -156,7 +156,11 @@ footer-text {
 /*Desktop View*/
 
 @media (min-width: 1024px){
-	
+
+	body {
+		max-width: 1200px;
+	}
+
 	.style-logo {
 		float: left;
 	}
