@@ -147,6 +147,10 @@ footer-text {
 		width: 50%;
 	}
 
+	.col {
+		float: left;
+		padding: 0px 7px 14px;
+	}
 }
 
 /*Desktop View*/
