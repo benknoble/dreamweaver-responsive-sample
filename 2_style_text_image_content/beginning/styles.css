@@ -20,6 +20,11 @@ img {
 	vertical-align: middle;
 }
 
+footer {
+	padding: 20px 30px;
+	background-color: #dbecf1;
+}
+
 .style-logo {
 	margin-left: auto;
 	margin-right: auto;
@@ -110,6 +115,11 @@ p {
 	color: #FFFFFF;
 	padding: 30px 20px 60px;
 	text-align: center;
+}
+
+.footer-text {
+	font-size: 13px;
+	margin-bottom: 20px;
 }
 
 /*Tablet View*/
